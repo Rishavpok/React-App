@@ -1,0 +1,16 @@
+.review-title{
+    text-align: center;
+    text-decoration: none;
+}
+.review-text p {
+    text-align: center;
+}
+.review-text{
+    padding-top: 30px;
+}
+.review-section{
+    padding: 2%;
+}
+.review{
+    padding: 20px;
+}

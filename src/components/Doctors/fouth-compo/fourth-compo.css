@@ -1,0 +1,51 @@
+.fouth-compo{
+    background-color: #EAEAEA;
+    padding: 2%;
+}
+.box-image{
+    width: 80%;
+}
+.box-holder{
+    padding-left: 30%;
+}
+.medicine{
+    padding-top: 20px;
+}
+
+@media screen and (max-width: 1199px) {
+    .box-holder{
+        padding-left: 5%;
+    }
+    
+}
+@media screen and (max-width: 991px) {
+    .box-holder{
+        padding-left: 1%;
+    }
+  
+}
+@media screen and (max-width: 767px) {
+    .box-holder{
+        padding-left: 30%;
+    }
+  
+}
+@media screen and (max-width: 680px) {
+    .box-holder{
+        padding-left: 15%;
+        padding-top: 20px;
+    }
+ 
+}
+@media screen and (max-width: 480px) {
+    .box-holder{
+        padding-left: 2%;
+       ;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .box-image{
+        width: 50;
+    }
+}

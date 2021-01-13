@@ -1,0 +1,30 @@
+.secure-app{
+    padding-top: 50px;
+    padding-left: 20%;
+}
+.fifth-compo{
+    padding: 7%;
+}
+.image-app{
+    width: 80%;
+}
+@media screen and (max-width: 1199px) {
+    
+    
+}
+@media screen and (max-width: 991px) {
+ 
+  
+}
+@media screen and (max-width: 767px) {
+    
+}
+@media screen and (max-width: 680px) {
+    
+ 
+}
+@media screen and (max-width: 480px) {
+    .app-image{
+         padding-left: 2%;
+    }
+}

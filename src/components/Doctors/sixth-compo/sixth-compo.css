@@ -1,0 +1,42 @@
+.med-image{
+    padding-left: 20%;
+}
+.image-meds{
+    width: 80%;
+}
+.sixth-compo{
+    background-color: #eaeaee;
+    padding: 7%;
+}
+
+@media screen and (max-width: 1199px) {
+    .med-image{
+        padding-left: 20%;
+    }
+    
+  }
+  @media screen and (max-width: 991px) {
+    .med-image{
+        padding-left: 20%;
+    }
+    
+  }
+  @media screen and (max-width: 767px) {
+    .med-image{
+        padding-left: 20%;
+    }
+    
+  }
+  @media screen and (max-width: 680px) {
+    .med-image{
+        padding-left: 20%;
+        padding-top: 40px;
+    }
+   
+  }
+  @media screen and (max-width: 480px) {
+    .med-image{
+        padding-left: 20%;
+        padding-top: 40px;
+    }
+  }

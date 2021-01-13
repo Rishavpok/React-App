@@ -1,0 +1,15 @@
+.popup{
+border-radius: 5px;
+padding: 20px;
+height: 200px;
+width: 320px;
+position:fixed;
+right: 5px;
+bottom: 2px;
+box-shadow: 5px black;
+background-color: white;
+z-index: 200;
+}
+.popupimage{
+    margin-top: 30px;
+}

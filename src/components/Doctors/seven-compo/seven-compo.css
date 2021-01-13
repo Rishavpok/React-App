@@ -1,0 +1,45 @@
+.seven-compo{
+    padding: 5%;
+}
+.download{
+    padding-left: 20%;
+    padding-top: 20px;
+}
+.practo-app{
+    padding-left: 90px;
+}
+
+.practo-app-image{
+    width: 80%;
+}
+@media screen and (max-width: 1199px) {
+     
+    .practo-app{
+        padding-left: 90px;
+    }
+     
+}
+@media screen and (max-width: 991px) {
+    
+    .practo-app{
+        padding-left: 90px;
+    }
+  
+}
+@media screen and (max-width: 767px) {
+    .practo-app{
+        padding-left: 90px;
+    }
+  
+}
+@media screen and (max-width: 680px) {
+    .practo-app{
+        padding-left: 90px;
+    }
+ 
+}
+@media screen and (max-width: 480px) {
+    .practo-app{
+        padding-left: 90px;
+    }
+}

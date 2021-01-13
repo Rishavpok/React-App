@@ -1,0 +1,46 @@
+.third-compo{
+    background-color: #EAEAEA;
+    padding: 2%;
+}
+.third-video{
+    padding-left: 20%;
+    padding-top: 50px;
+}
+.third-div{
+    padding-top: 50px;
+}
+@media screen and (max-width: 1199px) {
+    .third-video{
+        padding-left: 20%;
+        padding-top: 50px;
+    }
+    
+  }
+  @media screen and (max-width: 991px) {
+    .third-video{
+        padding-left: 10%;
+        padding-top: 40px;
+    }
+    
+  }
+  @media screen and (max-width: 767px) {
+    .third-video{
+        padding-left: 20%;
+        padding-top: 50px;
+    }
+    
+  }
+  @media screen and (max-width: 680px) {
+    .third-video{
+        padding-left: 20%;
+        padding-top: 50px;
+    }
+   
+  }
+  @media screen and (max-width: 480px) {
+    .third-video{
+        padding-left: 10%;
+        padding-top: 50px;
+    }
+    
+  }

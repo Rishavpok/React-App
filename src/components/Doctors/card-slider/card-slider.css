@@ -1,0 +1,20 @@
+.card-holder{
+    padding: 2%;
+}
+.item {
+    box-shadow: 0 0 18px white;
+    transition-duration: 0.4s;
+    transition-property: transform;
+    width: 20rem;
+}
+.item:hover{
+    transform: scale(1.1);
+}
+.article{
+    text-decoration: none;
+    text-align: center;
+
+}
+.holder-title{
+    padding: 20px;
+}

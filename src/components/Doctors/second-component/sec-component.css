@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+.second-component{
+    padding: 2%;
+}
+.gurannted{
+    padding-top: 50px;
+}
+.header-h4{
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+.video-holder{
+    padding-left: 40%;
+    padding-top: 50px;
+}
+.sec-list{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    margin-left: 9%;  
+}
+
+.sec-list li{
+    margin: 3%;
+    opacity: .6;
+    cursor: pointer;
+}
+@media screen and (max-width: 1199px) {
+    .sec-list{
+        list-style: none;
+        display: flex;
+        flex-direction: row;
+        margin-left: 9%;  
+    }
+    
+  }
+  @media screen and (max-width: 991px) {
+    .sec-list{
+        list-style: none;
+        display: flex;
+        flex-direction: row;
+        margin-left: 0; 
+    }
+    
+  }
+  @media screen and (max-width: 767px) {
+    .sec-list{
+        list-style: none;
+        display: flex;
+        flex-direction: row;
+        margin-left: 9%;  
+    }
+    
+  }
+  @media screen and (max-width: 680px) {
+    .sec-list{
+        list-style: none;
+        display: flex;
+        flex-direction: column;
+        margin-left: 9%;  
+    }
+    
+  }
+  @media screen and (max-width: 480px) {
+    .sec-list{
+        list-style: none;
+        display: flex;
+        flex-direction: column;
+      
+        
+    }
+    
+  }
+  
+.sec-list li:hover{
+    opacity: 2;
+    
+}
+.cmt{
+    padding-top: 30px;
+    width: 50%;
+}
+@media screen and (max-width: 1199px) {
+    .video-holder{
+        padding-left: 20%;
+        padding-top: 50px;
+    }
+    
+  }
+  @media screen and (max-width: 991px) {
+    .video-holder{
+        padding-left: 10%;
+        padding-top: 50px;
+    }
+    
+  }
+  @media screen and (max-width: 767px) {
+    .video-holder{
+        padding-left: 40%;
+        padding-top: 50px;
+    }
+    
+  }
+  @media screen and (max-width: 680px) {
+    .video-holder{
+        padding-left: 15%;
+        padding-top: 50px;
+    }
+   
+    
+  }
+  @media screen and (max-width: 480px) {
+    .video-holder{
+        padding-left: 10%;
+        /* padding-top: 50px; */
+    }
+    
+  }
+  

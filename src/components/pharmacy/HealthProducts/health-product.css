@@ -1,0 +1,30 @@
+.product-title{
+    padding-top: 3%;
+    padding-bottom: 10px;
+}
+.health-condition{
+    padding-bottom: 20px;
+}
+.product-text{
+    font-weight: lighter;
+}
+.product-items{
+    transition-duration: 0.4s;
+    transition-property: transform;
+}
+.product-items:hover{
+   transform: scale(1.1);
+}
+.products-name{
+    text-align: center;
+}
+.main-title{
+    padding-top: 5%;
+}
+.image-container{
+    width: 60%;
+    margin: auto;
+}
+.details-area{
+    padding-top: 5px;
+}

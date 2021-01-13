@@ -1,0 +1,21 @@
+.nav-head{
+    color: black;
+    font-weight: bold;
+}
+.nav-text{
+    color: black;
+    font-size: 12px;
+}
+#basic-nav-dropdown{
+    color: black;
+    font-size: 15px;
+}
+.buttons{
+    padding: 5px;
+}
+.btn1{
+    color: black
+}
+Button{
+    background-color: white !important ;
+}

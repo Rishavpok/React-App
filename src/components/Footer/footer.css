@@ -1,0 +1,24 @@
+.footer-list li{
+    list-style: none;
+    font-size: 14px;
+    color: white;
+}
+.footer-list li:hover{
+     text-decoration: underline;
+}
+
+.headline{
+    margin-left: 37px; 
+    color: white; 
+}
+.footer{
+    margin: auto;
+    padding-top: 30px;
+}
+.main-footer{
+    background-color: blue;
+}
+.second-footer{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

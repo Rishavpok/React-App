@@ -1,0 +1,23 @@
+.search-title{
+    text-align: center;
+    color: white;
+}
+.find-book{
+    text-align: center;
+    color: white;
+}
+.searchbox{
+    padding-bottom: 13%;
+    
+    background-attachment: fixed;
+    
+    background-image: url("https://www.practostatic.com/web-assets/home/assets/images/homepage.06859593240c3efd483fe48951cfe6ff.svg");
+}
+.list-search{
+    display: inline;  
+}
+.list{
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+}
